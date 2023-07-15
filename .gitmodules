@@ -1,0 +1,6 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/vivekr-rawani/Market-Place-api.git
+[submodule "client"]
+	path = client
+	url = https://github.com/vivekr-rawani/Market-Place.git
